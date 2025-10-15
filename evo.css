@@ -1,8 +1,10 @@
 div:hover img{
   display: flex;
 flex-direction: row;
+
 }
-.p {
-display:none;
-background-color: orange;
+
+img {
+width: 150px;
+height: 250px;
 }
