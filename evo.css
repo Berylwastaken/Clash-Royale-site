@@ -1,6 +1,6 @@
 div:hover img{
-  display:block;
-
+  display: flex;
+flex-direction: row;
 }
 .counterevoGB {
 display:none;
