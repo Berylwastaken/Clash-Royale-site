@@ -2,7 +2,7 @@ div:hover img{
   display: flex;
 flex-direction: row;
 }
-.counterevoGB {
+.p {
 display:none;
 background-color: orange;
 }
