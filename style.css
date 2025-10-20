@@ -2,7 +2,7 @@ img{
   height:215px;
   width:180px;
 }
-.cards{
+body{
   display:flex;
   justify-content:center;
 }
