@@ -2,3 +2,7 @@ img{
   height:215px;
   width:180px;
 }
+.cards{
+  display:flex;
+  justify-content:center;
+}
