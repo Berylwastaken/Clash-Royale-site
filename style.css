@@ -96,7 +96,6 @@ main{
   align-items: center;
   gap: 20px;
   position: absolute;
-  left: 65%;
   transform: translate(-50%, 250%);
 }
 
