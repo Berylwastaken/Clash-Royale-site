@@ -96,6 +96,7 @@ main{
   align-items: center;
   gap: 20px;
   position: absolute;
+  margin-top:50px;
 }
 
 .button {
