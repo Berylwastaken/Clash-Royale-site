@@ -89,3 +89,32 @@ main{
 .dashboard .dashboard-link:hover{
   text-decoration: none;
 }
+.button-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  position: absolute;
+  left: 65%;
+  transform: translate(-50%, 250%);
+}
+
+.button {
+  background-color: #2a2d32;
+  border: 1px solid white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 12px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.button:hover {
+  background-color: #3a3d42;
+  transform: scale(1.05);
+}
